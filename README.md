@@ -51,7 +51,7 @@ create django start project
 got to src directory 
 
 ```bash
- django-admin startproject djreact
+ cd src
 ```
 
 ## Usage
